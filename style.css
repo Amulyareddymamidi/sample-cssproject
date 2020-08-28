@@ -1,0 +1,33 @@
+h1
+{
+    color: rgb(30, 26, 58);
+    border:2px solid ;
+}
+body
+{
+   background-color: lightblue;
+}
+#p{
+    background-color: rgb(247, 247, 183);
+}
+h3{
+    color: rgb(124, 3, 124);
+    font-size: 24px;
+}
+.p
+{
+    color: rgb(22, 22, 104);
+    font-size: 19px;
+}
+a{
+    color: blue;
+    
+}
+li{
+    font-size: 17px;
+}
+div{
+    background-color: rgb(1, 1, 160);
+    border:yellow dashed 2px ;
+     ;
+}
